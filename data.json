@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Visit my parents",
+    "status": "pending",
+    "dueDate": "15th-October-2025"
+  },
+  {
+    "title": "Write some code",
+    "status": "pending",
+    "dueDate": "16th-October-2025"
+  },
+  {
+    "title": "Walk in the park",
+    "status": "pending",
+    "dueDate": "20th-October-2025"
+  }
+]
